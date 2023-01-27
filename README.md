@@ -13,7 +13,7 @@ A 3D Multiplayer Scrabble Based Word Game
 
 ### On Your Turn
 * Click on a tile on your platform to play it
-  *The tile will follow your mouse, and click again to confirm
+    * The tile will follow your mouse, and click again to confirm
 * Right click a tile that you just played to remove it from the board
 
 ### Letters + Scoring
